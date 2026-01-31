@@ -16,7 +16,7 @@ The raw Zomato dataset underwent several cleaning steps in Excel to ensure accur
 Removed Duplicates: Identified and deleted duplicate restaurant records.
 Handled Missing Values: Replaced blank or missing entries in fields like Cuisines, Average Cost, and Rating.
 Standardized Data Formats:
-Converted text-based numerical data to number format.
+Converted text-based numerical data to a number format.
 Unified currency and cost columns for consistency.
 Filtered Outliers: Reviewed unusually high or low cost values to maintain realistic data ranges.
 Created Calculated Columns
@@ -35,8 +35,8 @@ These slicers enable interactive exploration of restaurant trends across differe
 Most restaurants fall in the low-price segment (0–10 USD).
 Online delivery is adopted by ~71% of restaurants.
 Table bookings are less common, with only ~16% offering the feature.
-The highest number of restaurants were opened in Q2 and July.
-Countries like United Kingdom, South Africa, and India have a strong restaurant presence.
+The highest number of restaurants was opened in Q2 and July.
+Countries like the United Kingdom, South Africa, and India have a strong restaurant presence.
 
 Tools Used
 
